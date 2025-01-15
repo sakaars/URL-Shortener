@@ -10,9 +10,6 @@ URL Shortener Web Application is a user-friendly web-based tool that allows user
 - Copy to Clipboard: Copy the shortened URL to the clipboard for easy sharing.
 - User-friendly Interface: Intuitive and responsive UI design for a seamless user experience.
 
-## Live Demo
-Try out the live demo of the URL Shortener Web Application [here](https://lightlink.vercel.app).
-
 ## Installation
 To run the URL Shortener Web Application locally, follow these steps:
 
